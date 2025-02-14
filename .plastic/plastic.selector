@@ -1,4 +1,0 @@
-repository "Pressure cooker/Pressure cooker@9072233506736@cloud"
-  path "/"
-    br "/main"
-    co "/main"
